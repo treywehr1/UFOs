@@ -21,5 +21,5 @@ For further development, it might be beneficial to install a "publish" action th
 
 Of course, continuing to collect further data and implement a larger array of UFO sightings into this web page would yield a more comprehensive and fulfilling user experience. 
 
-##conclusion
+## Conclusion
 This project is a great initiation into interactive web page building, and is loaded with potential to implement more event-catching code that would further increase it's usefulness and engagement!
