@@ -16,8 +16,10 @@ Other touches, like adding an introductory paragraph within the HTM <body></body
 ### Drawbacks
 One limitation of this application is the limited data set. With so few recorded incidents, it is hard to input acceptable filter parameters. For example, with so many possible date inputs to submit, there is only one month in one year that will actually yield a succesful query (01/X/2010). Another drawback more specific to the web page itself is that it is not great for storing a user's query. This could be potentially fixed with one of my suggested ammendments.
 
+### Further Development
 For further development, it might be beneficial to install a "publish" action that will actually save a filtered version of the table and download it off of the webpage as a new csv/dataset. The code required to do so is a bit beyond the current scope of this project, but would be a tremendously beneficial addition to the web page in the future.
 
 Of course, continuing to collect further data and implement a larger array of UFO sightings into this web page would yield a more comprehensive and fulfilling user experience. 
 
-Finally, this project is a great initiation into interactive web page building, and is loaded with potential to implement more event-catching code that further increases the dynamics of this project! 
+##conclusion
+This project is a great initiation into interactive web page building, and is loaded with potential to implement more event-catching code that would further increase it's usefulness and engagement!
